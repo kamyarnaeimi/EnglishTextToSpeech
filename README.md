@@ -32,7 +32,7 @@ This project converts English text into speech using **Google Text-to-Speech (gT
 ```bash
 pip install gtts
 
-## 👤 Author
+ 👤 Author
 Kamyar Naeimi
 
 This script is designed specifically for Google Colab
